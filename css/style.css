@@ -1047,7 +1047,7 @@
   background: linear-gradient(rgba(0, 0, 0, 31%), rgba(5, 13, 9, 90%)),
     url(../img/bh.jpg);
     
-  background-position: center center;
+  /* background-position: center center; */
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
